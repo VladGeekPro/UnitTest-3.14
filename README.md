@@ -1,5 +1,10 @@
 # UnitTest-3.14
 
+Раздел тестирования :
+ 1)Откройте файл с тестами : UnitTest-3.14/tests/( Currency.java, CurrencyTest.java, CurrencyBinaryTree.java, CurrencyBinaryTree.java ). 
+ 2)Установите расширение Extension Pack for Java. Для этого нажмите на значок Extentions на боковой панели VS Code, введите Extension Pack for Java, в открытом окне нажмите кнопку install.
+ 3)Протестируйте методы из файла нажав на значок Testing на боковой панели VS Code.
+ 
 Индивидуальная работа №3 - Динамические структуры данных
 
 Для выполнения этой работы используйте результат индивидуальной работы №0.
@@ -18,7 +23,4 @@
 
 обход в правильном порядке, обход в обратном порядке, центрированный/симметричный байпас, вставить элемент, удаление элемента, элемент поиска
 
- Раздел тестирования :
- 1)Откройте файл с тестами : UnitTest-3.14/tests/( Currency.java, CurrencyTest.java, CurrencyBinaryTree.java, CurrencyBinaryTree.java ). 
- 2)Установите расширение Extension Pack for Java. Для этого нажмите на значок Extentions на боковой панели VS Code, введите Extension Pack for Java, в открытом окне нажмите кнопку install.
- 3)Протестируйте методы из файла нажав на значок Testing на боковой панели VS Code.
+ 
